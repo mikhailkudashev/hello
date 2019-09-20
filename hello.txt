@@ -1,2 +1,1 @@
-Hello world again!
-And Again 2
+Hello Git!
