@@ -1,6 +1,2 @@
-Hello Git!
-Hello iTerm!
-ASDF
-dfgsd
-sdfs
 dfdsf
+ывав
